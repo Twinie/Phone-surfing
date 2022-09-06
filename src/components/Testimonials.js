@@ -8,12 +8,11 @@ const Testimonials = () => {
     dots: true,
     infinite: true,
     speed: 500,
-    margin: 20,
-    slidesToShow: 3,
+    slidesToShow: 2,
     slidesToScroll: 1,
   };
   return (
-    <Slider {...settings} className="about-us">
+    <Slider {...settings} className="testimonial">
       <div>
         <img src="../../images/test-1.jpg" alt="" className="test-img" />
         <h3>Erica Lynda</h3>
