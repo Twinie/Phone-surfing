@@ -23,13 +23,13 @@ function About() {
             </ul>
           </div>
           <div>
-            <img src="../../images/vision-mission.webp"></img>
+            <img src="../../images/vision-mission.webp" alt=""></img>
           </div>
         </div>
 
         <div className="about-mission">
           <div>
-            <img src="../../images/our-story.webp"></img>
+            <img src="../../images/our-story.webp" alt=""></img>
           </div>
 
           <div>
